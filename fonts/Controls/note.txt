@@ -1,0 +1,5 @@
+Downloaded from
+http://dotnetzip.codeplex.com/SourceControl/changeset/view/29832#432677
+
+by recommendation from
+http://stackoverflow.com/questions/45988/choosing-a-folder-with-net-3-5

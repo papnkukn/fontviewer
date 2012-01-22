@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fonts", "fonts\fonts.csproj", "{C1D907FD-9B6E-4B1B-9E49-58DD61F695AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E9A6942-8454-4162-94B0-87827F4C8E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E9A6942-8454-4162-94B0-87827F4C8E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E9A6942-8454-4162-94B0-87827F4C8E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E9A6942-8454-4162-94B0-87827F4C8E70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1D907FD-9B6E-4B1B-9E49-58DD61F695AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1D907FD-9B6E-4B1B-9E49-58DD61F695AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1D907FD-9B6E-4B1B-9E49-58DD61F695AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1D907FD-9B6E-4B1B-9E49-58DD61F695AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
